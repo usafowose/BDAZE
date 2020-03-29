@@ -1,0 +1,6 @@
+DROP DATABASE IF EXISTS sún mọ; 
+
+CREATE DATABASE sún mọ; 
+
+
+
