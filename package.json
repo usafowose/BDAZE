@@ -1,0 +1,22 @@
+{
+  "name": "bdaze",
+  "version": "1.0.0",
+  "description": "Basic Birthday Tracker For All Family Birthdays ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "birthday",
+    "tracker",
+    "bday"
+  ],
+  "author": "Andrew Fowose",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.7.3",
+    "moment": "^2.24.0",
+    "mysql": "^2.18.1"
+  }
+}
